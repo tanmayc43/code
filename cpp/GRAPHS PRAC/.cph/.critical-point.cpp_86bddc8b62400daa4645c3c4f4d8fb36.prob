@@ -1,0 +1,1 @@
+{"name":"Local: critical-point","url":"d:\\sem3\\CS201\\GRAPHS PRAC\\critical-point.cpp","tests":[{"id":1732033644499,"input":"1\n5 5 0\n0 1 1\n1 4 1\n4 3 1\n4 2 1\n2 3 1","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\sem3\\CS201\\GRAPHS PRAC\\critical-point.cpp","group":"local","local":true}

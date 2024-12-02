@@ -1,0 +1,1 @@
+{"name":"Local: cycle-detection-directed-dfs","url":"d:\\sem3\\CS201\\GRAPHS PRAC\\cycle-detection-directed-dfs.cpp","tests":[{"id":1731860867877,"input":"1\n4 4\n0 1\n1 2\n2 3\n3 3\n\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\sem3\\CS201\\GRAPHS PRAC\\cycle-detection-directed-dfs.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: bellman-ford","url":"d:\\sem3\\CS201\\GRAPHS PRAC\\bellman-ford.cpp","tests":[{"id":1731707986550,"input":"1\n5 7 0\n0 1 5\n1 5 -3\n1 2 -2\n5 3 1\n3 2 6\n3 4 -2\n3 2 6\n2 4 3\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\sem3\\CS201\\GRAPHS PRAC\\bellman-ford.cpp","group":"local","local":true}

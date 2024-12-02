@@ -1,0 +1,1 @@
+{"name":"Local: ks-topdown","url":"d:\\sem3\\CS201\\DP PRAC\\ks-topdown.cpp","tests":[{"id":1732017543687,"input":"1\n4 7\n1 3 4 5\n1 4 5 7\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\sem3\\CS201\\DP PRAC\\ks-topdown.cpp","group":"local","local":true}

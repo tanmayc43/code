@@ -1,0 +1,1 @@
+{"name":"Local: subset-sum","url":"d:\\sem3\\CS201\\DP PRAC\\subset-sum.cpp","tests":[{"id":1732018443064,"input":"1\n5 11\n2 3 7 8 10\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\sem3\\CS201\\DP PRAC\\subset-sum.cpp","group":"local","local":true}

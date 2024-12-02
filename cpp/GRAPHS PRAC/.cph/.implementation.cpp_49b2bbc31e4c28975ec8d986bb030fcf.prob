@@ -1,0 +1,1 @@
+{"name":"Local: implementation","url":"d:\\sem3\\CS201\\GRAPHS PRAC\\implementation.cpp","tests":[{"id":1727518408292,"input":"1\n4 5\n1 2 2 3 1 4 1 3\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\sem3\\CS201\\GRAPHS PRAC\\implementation.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: shortest_job","url":"d:\\CODE\\Acad\\SEM3\\greedy_prac\\shortest_job.cpp","tests":[{"id":1726394161425,"input":"1\n5\n4 3 7 1 2\n","output":"36"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\CODE\\Acad\\SEM3\\greedy_prac\\shortest_job.cpp","group":"local","local":true}

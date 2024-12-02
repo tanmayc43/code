@@ -1,0 +1,1 @@
+{"name":"Local: minimum-subset-sum-diff","url":"d:\\sem3\\CS201\\DP PRAC\\minimum-subset-sum-diff.cpp","tests":[{"id":1732019888639,"input":"1\n4 \n1 6 11 5\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\sem3\\CS201\\DP PRAC\\minimum-subset-sum-diff.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: a7p2","url":"d:\\sem3\\CS201\\LAB\\cs210 code\\a7p2.cpp","tests":[{"id":1729588596869,"input":"1\n5\n2\n3 5\n4\n1 3 4 5\n2\n1 5\n3\n1 2 3\n1\n1\n\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\sem3\\CS201\\LAB\\cs210 code\\a7p2.cpp","group":"local","local":true}
